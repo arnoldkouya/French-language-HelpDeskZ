@@ -5,7 +5,7 @@
  * @community: http://community.helpdeskz.com
  * @author Welly Arnold KOUYA - arnoldkouya@gmail.com
  * @link https://github.com/arnoldkouya/French-language-HelpDeskZ
- * @phone +225 49 11 95 98 / @skype : arnoldkouya
+ * @phone +33 0699716221 / @skype : arnoldkouya
  * @since 1.0.0
  */
 $LANG['USERNAME'] = 'Nom d\'utilisateur';
